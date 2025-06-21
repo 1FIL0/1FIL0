@@ -5,10 +5,12 @@
   I do:
 </h2>
 <h3>
-  Custom game engines (C/C++/SDL2/OpenGL)
-  Games (C++/Godot/Lua)
-  Full stack websites (TS/NextJS)
-  GPU Acceleration (OpenCL)
-  Web automation (Python/Selenium)
-  Machine Learning (Python/PyTorch)
+  <ul>
+    <li> Custom game engines (C/C++/SDL2/OpenGL) </li>
+    <li> Games (C++/Godot/Lua) </li>
+    <li> Full stack websites (TS/NextJS/TailwindCSS) </li>
+    <li> GPU Acceleration (OpenCL) </li>
+    <li> Web automation (Python/Selenium) </li>
+    <li> Machine Learning (Python/PyTorch) </li>
+  </ul>
 </h3>
