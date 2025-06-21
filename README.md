@@ -15,8 +15,8 @@
   </ul>
 </h2>
 <h2>
+  Projects:
   <ul>
-    <li>Projects</li>
     <a href="https://1serg0.itch.io/curefordeath-101">Cure for death</a>
   </ul>:
 </h2>
