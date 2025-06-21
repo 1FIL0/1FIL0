@@ -3,8 +3,6 @@
 </h1>
 <h2>
   I do:
-</h2>
-<h2>
   <ul>
     <li> Custom game engines (C/C++/SDL2/OpenGL) </li>
     <li> Games (C++/Godot/Lua) </li>
