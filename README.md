@@ -16,7 +16,7 @@
     <li> Games (C++/Godot/Lua) </li>
     <li> Full stack websites (TS/NextJS/TailwindCSS) </li>
     <li> GPU Acceleration (OpenCL) </li>
-    <li> Web automation (Python/Selenium) </li>
+    <li> Web automation (Python/Selenium/Requests) </li>
     <li> Desktop Apps (Qt5/ImGui)</li>
   </ul>
 </h2>
