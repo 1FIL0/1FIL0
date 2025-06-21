@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**1FIL0/1FIL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+  What's Up
+</h1>
+<h2>
+  I do:
+</h2>
+<h3>
+  Custom game engines (C/C++/SDL2/OpenGL)
+  Games (C++/Godot/Lua)
+  Full stack websites (TS/NextJS)
+  GPU Acceleration (OpenCL)
+  Web automation (Python/Selenium)
+  Machine Learning (Python/PyTorch)
+</h3>
