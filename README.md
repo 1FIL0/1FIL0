@@ -2,6 +2,9 @@
   What's Up
 </h1>
 <h2>
+  I'm from poland
+</h2>
+<h2>
   I do
   <ul>
     <li> Custom game engines (C/C++/SDL2/OpenGL) </li>
