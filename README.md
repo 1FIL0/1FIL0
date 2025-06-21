@@ -40,7 +40,7 @@
       <a href="">
         Halcyon prototype engine
       </a>
-      - Custom opengl game engine made in 3 months
+      - Custom OpenGL Engine learning
     </li>
   </ul>
 </h2>
