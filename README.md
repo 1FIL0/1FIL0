@@ -16,8 +16,16 @@
   Projects:
   <ul>
     <li>
-      <a href="https://1serg0.itch.io/curefordeath-101">Cure for death </a>
+      <a href="https://1serg0.itch.io/curefordeath-101">
+        Cure for death 
+      </a>
       - Submitted for Pirate Software 15 Gamejam
+    </li>
+    <li>
+      <a href="">
+        Halcyon prototype engine
+      </a>
+      - Custom opengl game engine made in 3 months
     </li>
   </ul>
 </h2>
