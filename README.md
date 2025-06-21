@@ -16,5 +16,6 @@
 </h3>
 <h4>
   Projects:
-  Pirate Software 15 Gamejam: <a href="https://1serg0.itch.io/curefordeath-101"></a>
+  Pirate Software 15 Gamejam: 
+  <a href="https://1serg0.itch.io/curefordeath-101"></a>
 </h4>
