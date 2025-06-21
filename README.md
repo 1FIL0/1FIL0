@@ -14,7 +14,7 @@
   <ul>
     <li> Custom game engines (C/C++/SDL2/OpenGL) </li>
     <li> Games (C++/Godot/Lua) </li>
-    <li> Full stack websites (TS/NextJS/TailwindCSS) </li>
+    <li> Full stack websites (TS/NextJS/TailwindCSS/Postgres) </li>
     <li> GPU Acceleration (OpenCL) </li>
     <li> Web automation (Python/Selenium) </li>
   </ul>
