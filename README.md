@@ -15,6 +15,8 @@
   </ul>
 </h2>
 <h2>
-  Projects:
-  <a href="https://1serg0.itch.io/curefordeath-101">Cure for death (Pirate Software 15 Gamejam)</a>
+  <span>
+    Projects
+  </span>:
+  <a href="https://1serg0.itch.io/curefordeath-101">Cure for death</a>
 </h2>
