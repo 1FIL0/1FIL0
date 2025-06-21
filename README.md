@@ -18,5 +18,5 @@
     <li>
       <a href="https://1serg0.itch.io/curefordeath-101">Cure for death</a>
     </li>
-  </ul>:
+  </ul>
 </h2>
