@@ -2,7 +2,7 @@
   What's Up
 </h1>
 <h2>
-  Me
+  ____ Me ____
   <ul>
     <li>
       I'm from poland
@@ -10,7 +10,7 @@
   </ul>
 </h2>
 <h2>
-  I do
+  ____ I do ____
   <ul>
     <li> Custom game engines (C/C++/SDL2/OpenGL) </li>
     <li> Games (C++/Godot/Lua) </li>
@@ -21,14 +21,14 @@
   </ul>
 </h2>
 <h2>
-  Learning
+  ____ Learning ____
   <ul>
     <li>Machine learning (Python/Pytorch)</li>
     <li>VR Gamedev (OpenXR)</li>
   </ul>
 </h2>
 <h2>
-  Works
+ ____ Works ____
   <ul>
     <li>
       <a href="https://1serg0.itch.io/curefordeath-101">
