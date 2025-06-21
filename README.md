@@ -13,7 +13,7 @@
   </ul>
 </h2>
 <h2>
-  Projects:
+  Works:
   <ul>
     <li>
       <a href="https://1serg0.itch.io/curefordeath-101">
