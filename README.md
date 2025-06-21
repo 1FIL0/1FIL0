@@ -17,6 +17,8 @@
 <h2>
   Projects:
   <ul>
-    <a href="https://1serg0.itch.io/curefordeath-101">Cure for death</a>
+    <li>
+      <a href="https://1serg0.itch.io/curefordeath-101">Cure for death</a>
+    </li>
   </ul>:
 </h2>
