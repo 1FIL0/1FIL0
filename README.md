@@ -18,6 +18,7 @@
     <li> GPU Acceleration (OpenCL) </li>
     <li> Web automation (Python/Selenium/Requests) </li>
     <li> Desktop Apps (Qt5/ImGui)</li>
+    <li> Shell Scripts (Bash)</li>
   </ul>
 </h2>
 <h2>
