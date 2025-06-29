@@ -40,7 +40,7 @@
       <a href="">
         Halcyon prototype engine
       </a>
-      - Custom OpenGL Engine learning
+      - Custom OpenGL Engine with serialization
     </li>
   </ul>
 </h2>
