@@ -34,7 +34,7 @@
       <a href="https://1serg0.itch.io/curefordeath-101">
         Cure for death 
       </a>
-      - Submitted for Pirate Software 15 Gamejam (2 weeks)
+      - Submitted for Pirate Software 15 Gamejam (2 weeks, 5-man)
     </li>
     <li>
       <a href="">
