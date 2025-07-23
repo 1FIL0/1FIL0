@@ -22,13 +22,6 @@
   </ul>
 </h2>
 <h2>
-  ____ Learning ____
-  <ul>
-    <li>Machine learning (Python/Pytorch)</li>
-    <li>VR Gamedev (OpenXR)</li>
-  </ul>
-</h2>
-<h2>
  ____ Works ____
   <ul>
     <li>
