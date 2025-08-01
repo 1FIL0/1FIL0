@@ -36,5 +36,10 @@
       </a>
       - Custom OpenGL Engine with serialization
     </li>
+    <li>
+      <a href="https://github.com/1FIL0/nimbledesktop">
+      </a>
+      - Nimble desktop (BSPWM RICE)
+    </li>
   </ul>
 </h2>
