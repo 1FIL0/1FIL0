@@ -40,7 +40,7 @@
       <a href="https://github.com/1FIL0/nimbledesktop">
         - Nimble desktop
       </a>
-      - Fast and productivity focused BSPWM RICE
+      Fast and productivity focused BSPWM RICE
     </li>
   </ul>
 </h2>
