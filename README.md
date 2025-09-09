@@ -1,5 +1,6 @@
 # 1FIL0
 What's up, I'm from Poland
 
-## Website
-https://onefil.dev
+## Socials
+**Website**: https://onefil.dev
+**Youtube**: https://www.youtube.com/@1FIL0-f7f
