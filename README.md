@@ -8,4 +8,7 @@ What's up, I'm from Poland
 
 ## Development
 I specialise in creating low-level tools, games, ricing desktops, and front end websites.  
-Main languages are: C, C++, Python, GDScript. I'm most experienced with C++
+Main languages are: C, C++, Python, GDScript. I'm most experienced with C++.
+
+## Newest Project
+Market Engine - Automated CS2 Tradeup calculator: https://marketengine.onefil.dev
