@@ -7,4 +7,4 @@ What's up, I'm from Poland
 **Itch.io**: https://1serg0.itch.io
 
 I specialise in creating low-level tools, games, ricing desktops, and front end websites.  
-Main languages are: C, C++, Python, GDScript, TS/TSX.
+Main languages are: C, C++, Python, GDScript
