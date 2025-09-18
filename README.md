@@ -3,7 +3,7 @@ What's up, I'm from Poland
 
 ## Socials
 **Website**: https://onefil.dev - WORK IN PROGRESS  
-**Youtube**: https://www.youtube.com/@1FIL0-f7f
+**Youtube**: https://www.youtube.com/@1FIL0-f7f  
 **Itch.io**: https://1serg0.itch.io
 
 I specialise in creating low-level tools, games, ricing desktops, and front end websites.  
