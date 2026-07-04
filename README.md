@@ -1,6 +1,7 @@
 # 1FIL0
-What's up, I'm from Poland, 19
-I make games, game engines and GPU accelerated software. C/C++/Python/GDScript
+What's up, I'm from Poland, 19  
+I make games, game engines and GPU accelerated software.  
+C/C++/Python/GDScript
 
 ## Socials
 **Website (Unavailable)**: https://onefil.dev  
